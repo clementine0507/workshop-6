@@ -12,3 +12,5 @@ Rita is a coding toolkit for working with language. It can be used with differen
 <img width="1700" alt="f9951604cf7a64f00d2c79427da5eab" src="https://github.com/user-attachments/assets/076e80e6-e1ff-4fd5-b811-2baac985d252" />
 
 we already have a sketch running, so we need to do is take this line of code, copy it and add it to the index dot HTML. 
+
+![dd57d542353d783fd52267adfa8dcaa](https://github.com/user-attachments/assets/4b4ee0e5-8684-48f6-87b5-9f354cd3bb44)

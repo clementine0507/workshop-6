@@ -75,3 +75,4 @@ we already have a sketch running, so we need to do is take this line of code, co
 
           stressesList.push(stresses.join(' ')); 
     
+###### reflection

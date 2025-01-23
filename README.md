@@ -15,7 +15,7 @@ we already have a sketch running, so we need to do is take this line of code, co
 
 ![dd57d542353d783fd52267adfa8dcaa](https://github.com/user-attachments/assets/4b4ee0e5-8684-48f6-87b5-9f354cd3bb44)
 
-####coding 1.0
+#### coding 1.0
 let userInput; // The input field where the user can type their poem line
 let poem = []; // Array used to store the lines of the poem
 
@@ -65,12 +65,14 @@ function newLine() {
     }
 }
 
-#####add new reference into coding 2.0
+##### add new reference into coding 2.0
 <img width="696" alt="993a44783d1259b33774117142dcef2" src="https://github.com/user-attachments/assets/49a81c9d-c92d-4dc2-915b-c75241efed1e" />
 
 <img width="571" alt="1a1ede3eed5fbfb6fd42739912bda72" src="https://github.com/user-attachments/assets/c6fbe6d9-34d1-41af-8329-e103010cb46d" />
 
 let stressesList = [];
+
 let stresses = words.map(word => RiTa.stresses(word));
+
     stressesList.push(stresses.join(' ')); 
     

@@ -78,3 +78,4 @@ we already have a sketch running, so we need to do is take this line of code, co
           stressesList.push(stresses.join(' ')); 
     
 ###### reflection
+In this assignment, I wrote a similar piece of code by following the video. During the process, I realized that I wasn't very sensitive to English letters, so I relied on ChatGPT to help check and adjust the code. While relying on external tools was very effective, I also realized that the power of code lies in its ability to seamlessly connect with tools like AI, offering more possibilities.

@@ -76,6 +76,10 @@ we already have a sketch running, so we need to do is take this line of code, co
           let stresses = words.map(word => RiTa.stresses(word));
 
           stressesList.push(stresses.join(' ')); 
+
+Following the format given by chatgpt, I imported this piece of code into my own code and ran it successfully！
     
 ###### reflection
-In this assignment, I wrote a similar piece of code by following the video. During the process, I realized that I wasn't very sensitive to English letters, so I relied on ChatGPT to help check and adjust the code. While relying on external tools was very effective, I also realized that the power of code lies in its ability to seamlessly connect with tools like AI, offering more possibilities.
+In this workshop, I wrote a piece of code that allows users to input a line of poetry, randomly replaces one of the nouns, and analyzes the stress pattern of each word. Throughout the process, I gained a deeper understanding of the RiTa.js library, particularly in areas such as part-of-speech tagging (POS tagging), tokenization, and stress pattern analysis.  
+
+During debugging, I encountered several challenges, such as how to correctly store and replace nouns and how to ensure the text is properly displayed on the canvas. Through continuous testing and modifying the code, I realized that when altering sentence structures, it's crucial not to disrupt the original grammatical logic—even a small change in sequence could lead to runtime errors. On the other hand, this code generates a new variation of the poem each time it runs, similar to how popular AI models today can generate different responses for each user input. This has made me start thinking about how to better utilize these intelligent libraries in future projects.
